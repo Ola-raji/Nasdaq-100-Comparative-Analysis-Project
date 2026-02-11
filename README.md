@@ -2,7 +2,7 @@
 **A Strategic Assessment of Profitability and Financial Resilience**
 
 ## 1. Project Overview
-This analysis evaluates the financial architecture of the NASDAQ-100 index. By juxtaposing sector-level profitability against balance-sheet resilience. The project also identifies where financial strength is structurally sound versus where it is concentrated or fragile.
+This analysis evaluates the financial architecture of the NASDAQ-100 index. By juxtaposing sector-level profitability against balance-sheet resilience. The project also identifies where financial strength is structurally sound versus where it is concentrated or fragile.    
 
 ### Analytical Question
 How do NASDAQ-100 sectors diverge when comparing 2023 profitability against projected forward returns, and how does short-term liquidity correlate with long-term solvency?
