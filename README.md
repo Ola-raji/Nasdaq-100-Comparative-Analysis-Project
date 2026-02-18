@@ -35,9 +35,7 @@ While **Communication Services** appears solvent at an aggregate level, the dril
 
 
 ## 5. Visualization
-The interactive analysis is hosted on Tableau Public.
-
-👉 **https://public.tableau.com/views/NasdaqJuxtaposeAnalysis/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link**
+The [interactive analysis](https://public.tableau.com/views/NasdaqJuxtaposeAnalysis/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) is hosted on Tableau Public.
 
 ## 6. Technical Stack
 * **Visualization:** Tableau Public
