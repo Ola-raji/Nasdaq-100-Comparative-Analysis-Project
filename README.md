@@ -41,7 +41,7 @@ The interactive analysis is hosted on Tableau Public.
 
 ## 6. Technical Stack
 * **Visualization:** Tableau Public
-* **Processing:** Excel (Ratio Adjustments)
+* ** Transformation and Optimization:** Excel
 * **Documentation:** GitHub.
 
 
