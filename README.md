@@ -1,5 +1,7 @@
 # NASDAQ-100 Sectorial Comparative Analysis
 **A Strategic Assessment of Profitability and Financial Resilience**
+## 🔗 Live Dashboard
+**[View the Interactive Power BI Report here](https://public.tableau.com/views/NasdaqJuxtaposeAnalysis/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)**
 
 ## 1. Project Overview
 This analysis evaluates the financial architecture of the NASDAQ-100 index. By juxtaposing sector-level profitability against balance-sheet resilience. The project also identifies where financial strength is structurally sound versus where it is concentrated or fragile.    
@@ -34,10 +36,7 @@ Sectors that dominated 2023 profitability (e.g., Information Technology) show a 
 While **Communication Services** appears solvent at an aggregate level, the drill-down analysis highlights that this strength is heavily concentrated in a few sub-sector giants, rather than being a broad-based sector characteristic.
 
 
-## 5. Visualization
-The [interactive analysis](https://public.tableau.com/views/NasdaqJuxtaposeAnalysis/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) is hosted on Tableau Public.
-
-## 6. Technical Stack
+## 5. Technical Stack
 * **Visualization:** Tableau Public
 * ** Transformation and Optimization:** Excel
 * **Documentation:** GitHub.
@@ -45,4 +44,4 @@ The [interactive analysis](https://public.tableau.com/views/NasdaqJuxtaposeAnaly
 
 
 ---
-*Created by Abdllahi Raji*        
+      
