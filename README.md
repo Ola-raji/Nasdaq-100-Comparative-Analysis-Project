@@ -38,7 +38,7 @@ While **Communication Services** appears solvent at an aggregate level, the dril
 
 ## 5. Technical Stack
 * **Visualization:** Tableau Public
-* ** Transformation and Optimization:** Excel
+* **Transformation and Optimization:** Excel
 * **Documentation:** GitHub.
 
 
