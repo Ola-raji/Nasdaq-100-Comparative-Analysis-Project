@@ -1,7 +1,7 @@
 # NASDAQ-100 Sectorial Comparative Analysis
 **A Strategic Assessment of Profitability and Financial Resilience**
 ## 🔗 Live Dashboard
-**[View the Interactive Power BI Report here](https://public.tableau.com/views/NasdaqJuxtaposeAnalysis/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)**
+**[View the Interactive Tableau Dashboard here](https://public.tableau.com/views/NasdaqJuxtaposeAnalysis/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)**
 
 ## 1. Project Overview
 This analysis evaluates the financial composition of constituents of the NASDAQ-100 index. By juxtaposing sector-level profitability against balance-sheet resilience. The project also identifies where financial strength is structurally sound versus where it is concentrated or fragile.    
