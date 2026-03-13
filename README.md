@@ -4,7 +4,7 @@
 **[View the Interactive Tableau Dashboard here](https://public.tableau.com/views/NasdaqJuxtaposeAnalysis/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)**
 
 ## 1. Project Overview
-This analysis evaluates the financial composition of constituents of the NASDAQ-100 index. By juxtaposing sector-level profitability against balance-sheet resilience. The project also identifies where financial strength is structurally sound versus where it is concentrated or fragile.    
+This project analyzes facets of the aggregate financial well-being of NASDAQ-100 constituents. It makes a sector-level juxtaposition of current and projected performance through the lenses of profitability, solvency, and liquidity.
 
 ### Analytical Question
 How do NASDAQ-100 sectors diverge when comparing 2023 profitability against projected forward returns, and how does short-term liquidity correlate with long-term solvency?
