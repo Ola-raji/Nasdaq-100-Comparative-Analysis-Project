@@ -3,11 +3,9 @@
 ## 🔗 Live Dashboard
 **[View the Interactive Tableau Dashboard here](https://public.tableau.com/views/NasdaqJuxtaposeAnalysis/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)**
 
-## 1. Project Overview
-This project analyzes facets of the aggregate financial well-being of NASDAQ-100 constituents. It makes a sector-level juxtaposition of current and projected performance through the lenses of profitability, solvency, and liquidity.
+## 1. Project Objective
+This project analyzes facets of the aggregate financial well-being of NASDAQ-100 constituents. It makes a sector-level juxtaposition of current and projected performance of the index constituents through the lenses of considerations such as profitability, solvency, and liquidity.
 
-### Analytical Question
-How do NASDAQ-100 sectors diverge when comparing 2023 profitability against projected forward returns, and how does short-term liquidity correlate with long-term solvency?
 
 ## 2. Dataset & Limitations
 * **Source:** [NASDAQ-100 Fundamental Data](https://www.kaggle.com/datasets/ifuurh/nasdaq100-fundamental-data) (via Oliver Hennhöfer).
